@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Center the header content */
+header {
+  text-align: center;
+}
+
+/* Center the site description specifically */
+header p {
+  text-align: center;
+}
