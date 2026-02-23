@@ -1,10 +1,3 @@
-# Andrew Dilley
-
-Master of Computer Science  
-Software Engineering | Cybersecurity | Machine Learning  
-
----
-
 ## About Me
 
 I am a postgraduate Computer Science student at the University of Wollongong with a focus on software engineering, security, and scalable systems design.
