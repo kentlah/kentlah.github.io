@@ -3,7 +3,14 @@
 ##- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
+##title: Andrew Dilley
+##description: Master of Computer Science | Software Engineering
+##theme: jekyll-theme-minimal
+##show_downloads: false
+
 title: Andrew Dilley
-description: Master of Computer Science | Software Engineering
+description: Software Engineering | Security | Machine Learning
 theme: jekyll-theme-minimal
 show_downloads: false
+github:
+  is_project_page: false
