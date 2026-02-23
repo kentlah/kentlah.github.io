@@ -28,6 +28,7 @@ Designed a comprehensive information security framework aligned with ISO 27001 p
 
 - Python
 - JavaScript / NodeJS
+- HTML / CSS
 - Docker
 - MySQL / Hive / HBase
 - Network Security
@@ -37,5 +38,5 @@ Designed a comprehensive information security framework aligned with ISO 27001 p
 
 ## Contact
 
-[GitHub](https://github.com/yourusername)  
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/kentlah)  
+[LinkedIn](https://www.linkedin.com/in/adilley87/)
