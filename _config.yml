@@ -9,9 +9,7 @@
 ##show_downloads: false
 
 title: Andrew Dilley
-description: |
-  Master of Computer Science
-  Software Engineering | Cybersecurity | Machine Learning
+description: "Master of Computer Science<br>Software Engineering | Cybersecurity | Machine Learning"
 theme: jekyll-theme-minimal
 show_downloads: false
 github:
